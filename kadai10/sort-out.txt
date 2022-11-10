@@ -1,0 +1,18 @@
+
+
+
+
+            BREAK;
+        C = (INT)FGETC(STDIN);
+        FPUTC(TOUPPER((INT)C), STDOUT);
+        IF (FEOF(STDIN) != 0)
+    CHAR C;
+    PRINTF("\N");
+    WHILE (1)
+    {
+    }
+#INCLUDE <CTYPE.H>
+#INCLUDE <STDIO.H>
+INT MAIN()
+{
+}

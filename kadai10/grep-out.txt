@@ -1,0 +1,4 @@
+#INCLUDE <STDIO.H>
+        C = (INT)FGETC(STDIN);
+        IF (FEOF(STDIN) != 0)
+        FPUTC(TOUPPER((INT)C), STDOUT);
